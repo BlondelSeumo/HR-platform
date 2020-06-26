@@ -4,13 +4,13 @@ For Live server
 
     Unzip the downloaded folder
 
-    Create a subfolder on your host via FTP or File Manager (You can name the folder "hrm" or "blondel" for-example)
+    Create a subfolder on your host via FTP or File Manager (You can name the folder "HrSoftware" or "blondel" for-example)
 
     Upload the files from the "blondel" folder of the script into the newly created subfolder on your host
 
     Create a MySQL database (Your hosting provider can assist)
 
-    Visit your website where you uploaded the files, For example: http://hrm.example.com/install/
+    Visit your website where you uploaded the files, For example: http://blondel.example.com/install/
 
     The Installation Wizard will open automatically, just follow the steps
 
@@ -24,13 +24,13 @@ For Local server - WampServer, XAMPP, MAMP
 
     Unzip the downloaded folder
 
-    Create a folder in wampserver, xampp or mamp server (You can name the folder "hrm" for-example)
+    Create a folder in wampserver, xampp or mamp server (You can name the folder "HrSoftware" or "blondel" for-example)
 
-    Upload the files from the "hrsale_2_0_0" folder of the script into the newly created folder
+    Upload the files from the "blondel" folder of the script into the newly created folder
 
     Create a MySQL database. Go to http://localhost/phpmyadmin/ or http://127.0.0.1/phpmyadmin/
 
-    Visit your website where you uploaded the files, For example: http://localhost/hrm/install/
+    Visit your website where you uploaded the files, For example: http://localhost/blondel/install/
 
     The Installation Wizard will open automatically, just follow the steps
 
