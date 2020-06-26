@@ -1,0 +1,10 @@
+#chart-container {
+  position: relative;
+  display: inline-block;
+  height: 420px;
+  width: calc(100% - 24px);
+  border: 1px dashed #aaa;
+  border-radius: 0px;
+  overflow: auto;
+  text-align: center;
+}
